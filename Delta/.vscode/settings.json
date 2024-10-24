@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Prueba.sln"
+    "dotnet.defaultSolution": "Delta.sln"
 }
