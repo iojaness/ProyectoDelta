@@ -1,6 +1,6 @@
-# Magikards
+# Delta
 
-**Magikards** es un RPG 3D de acción totalmente personalizable. En este juego, los jugadores pueden adaptar su estilo de pelea, magia, apariencia del personaje y habilidades de manera única, garantizando que cada experiencia de juego sea diferente. Además, el juego cuenta con un sistema dinámico de cocina y alquimia que reacciona a las acciones del usuario, ofreciendo efectos mágicos y mejoras físicas.
+**Delta** es un RPG 3D de acción totalmente personalizable. En este juego, los jugadores pueden adaptar su estilo de pelea, magia, apariencia del personaje y habilidades de manera única, garantizando que cada experiencia de juego sea diferente. Además, el juego cuenta con un sistema dinámico de cocina y alquimia que reacciona a las acciones del usuario, ofreciendo efectos mágicos y mejoras físicas.
 
 ## Características:
 - **Total Personalización**: Estilos de combate, magia, apariencia y habilidades especiales.
