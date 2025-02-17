@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b655d1be938de4dba38cf6f61a911f, type: 3}
+  m_Name: SaltarValla
+  m_EditorClassIdentifier: 
+  nombreAnima: Jumping
+  alturaMinima: 0.7
+  alturaMaxima: 1.4
+  largoMinimo: 0.1
+  largoMaximo: 0.8
+  mirarAObstaculo: 1
+  delayAccionParkour: 0.1
+  permitirTargetMatching: 1
+  comparaParteDelCuerpo: 4
+  comparaTiempoInicio: 0.12
+  comparaTiempoFinal: 0.31
+  pesoComparaPosicion: {x: 0, y: 1, z: 1}
